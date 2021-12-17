@@ -14,9 +14,8 @@ module.exports = class BinarySearchTree {
     return this.head;
   }
 
-  rooot()
-  {
-    return 0;
+  rooot() {
+    return 1;
   }
 
   add(data) {
