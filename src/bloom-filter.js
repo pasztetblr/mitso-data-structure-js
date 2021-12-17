@@ -6,7 +6,7 @@ module.exports = class BloomFilter {
    */
   constructor() {
     // Bloom filter size directly affects the likelihood of false positives.
-    // The bigger the size the lower the likelihood of false positives.
+    // The biigger the size the lower the likelihood of false positives.
   }
 
   /**
