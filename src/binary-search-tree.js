@@ -15,7 +15,7 @@ module.exports = class BinarySearchTree {
   }
 
   rooot() {
-    return 1;
+    return 0;
   }
 
   add(data) {
