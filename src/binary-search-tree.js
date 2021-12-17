@@ -14,6 +14,11 @@ module.exports = class BinarySearchTree {
     return this.head;
   }
 
+  rooot()
+  {
+    return 0;
+  }
+
   add(data) {
     const node = this.head;
     if (node === null) {
